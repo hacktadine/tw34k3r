@@ -12,7 +12,6 @@ Twint also makes special queries to Twitter allowing you to also scrape a Twitte
 
 ![screenshot](images/tw34k3r.png)
 
-
 #installation
 
 ``sudo apt install python3``

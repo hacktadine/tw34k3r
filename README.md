@@ -10,7 +10,7 @@ we use Twint (a python module) which utilizes Twitter's search operators to let 
 
 Twint also makes special queries to Twitter allowing you to also scrape a Twitter user's followers, Tweets a user has liked, and who they follow without any authentication, API, Selenium, or browser emulation.
 
-![Screenshot](img/tw34k3r.png)
+![screenshot](images/tw34k3r.png)
 
 
 #installation
